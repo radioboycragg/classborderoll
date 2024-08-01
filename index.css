@@ -1,0 +1,83 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.body{
+    background-color:RGB(208 218 218);
+}
+.rich{
+    background-color: #131921;
+    position: sticky;
+}
+.dad{
+    display: flex;
+    align-items: center; 
+    justify-content:space-evenly;  
+}
+.son{
+    display: flex;
+
+}
+.daughter main {
+    display: flex;
+    height: 25px;
+
+    
+} 
+.daughter input{
+    width: 1000px;
+}
+.flag{
+    display: flex;
+}
+ .sect2 {
+    display: flex;
+    background-color:#232f3e;
+}
+
+.sect2{
+    color:white;
+    padding: 10px;
+    
+}
+
+.sect2 p{
+    padding:0px 5px;
+}
+.swiper {
+  width: 100%;
+  height: 60vh;
+}
+.swiper-slide img{
+    width: 100%;
+    object-fit: cover;
+}
+.myrow{
+    display: flex;
+    justify-content: space-around;
+   
+}
+.section4 nav{
+    display: flex;
+    width: 300px;
+}
+.section4 nav .mymain{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+
+}
+.section4 nav .mymain div{
+    margin-right: 10px;
+}
+.image{
+    width: 140px;
+}
+.image img{
+    width: 100%;
+}
+
+
+
+
